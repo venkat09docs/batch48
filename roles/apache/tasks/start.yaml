@@ -1,4 +1,4 @@
- ---
+---
 
 - name: Start and Enable Httpd Service
   service: name=httpd state=started enabled=true
