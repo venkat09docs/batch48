@@ -1,0 +1,7 @@
+[webserver]
+web ansible_host=172.31.26.235
+[appserver]
+app ansible_host=172.31.21.230
+[centos]
+web
+app
